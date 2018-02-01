@@ -1,0 +1,1 @@
+C:\python352\python.exe C:/repositories/PythonTasks/FileOperations.py

@@ -1,0 +1,4 @@
+cat 1.txt => type 1.txt
+cat 1.txt | grep physics => type 1.txt | findstr /C:"physics"
+ls => dir
+more examples to follow
