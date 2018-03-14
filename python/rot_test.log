@@ -1,0 +1,18 @@
+2018-02-18 20:21:01,546 [MainThread  ] [INFO ]  info test
+2018-02-18 20:21:01,546 [MainThread  ] [DEBUG]  debug message
+2018-02-18 20:21:01,546 [MainThread  ] [ERROR]  should not occur at all
+2018-02-18 20:35:14,945 [MainThread  ] [INFO ]  info test
+2018-02-18 20:35:15,044 [MainThread  ] [DEBUG]  debug message
+2018-02-18 20:35:15,045 [MainThread  ] [ERROR]  should not occur at all
+2018-02-18 21:13:32,935 [MainThread  ] [INFO ]  info test
+2018-02-18 21:13:32,998 [MainThread  ] [DEBUG]  debug message
+2018-02-18 21:13:32,999 [MainThread  ] [ERROR]  should not occur at all
+2018-02-18 21:13:45,450 [MainThread  ] [INFO ]  info test
+2018-02-18 21:13:46,139 [MainThread  ] [DEBUG]  debug message
+2018-02-18 21:13:46,959 [MainThread  ] [ERROR]  should not occur at all
+2018-02-18 21:15:10,438 [MainThread  ] [INFO ]  info test
+2018-02-18 21:15:11,055 [MainThread  ] [DEBUG]  debug message
+2018-02-18 21:15:11,875 [MainThread  ] [ERROR]  should not occur at all
+2018-02-18 21:21:45,999 [MainThread  ] [INFO ]  info test
+2018-02-18 21:21:46,000 [MainThread  ] [DEBUG]  debug message
+2018-02-18 21:21:46,000 [MainThread  ] [ERROR]  should not occur at all

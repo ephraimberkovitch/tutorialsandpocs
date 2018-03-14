@@ -1,0 +1,6 @@
+ERROR <PID 30613:MainProcess> root.<module>(): error log
+CRITICAL <PID 30613:MainProcess> root.<module>(): critical log
+ERROR <PID 30629:MainProcess> root.<module>(): error log
+CRITICAL <PID 30629:MainProcess> root.<module>(): critical log
+ERROR <PID 30876:MainProcess> root.<module>(): error log
+CRITICAL <PID 30876:MainProcess> root.<module>(): critical log

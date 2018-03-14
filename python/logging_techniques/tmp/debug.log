@@ -1,0 +1,10 @@
+2018-02-19 07:10:23,198 - root - INFO - info log
+2018-02-19 07:10:23,199 - root - DEBUG - debug log
+2018-02-19 07:10:23,199 - root - ERROR - error log
+2018-02-19 07:10:23,200 - root - CRITICAL - critical log
+2018-02-19 07:10:23,200 - root - WARNING - warn log
+2018-02-19 07:27:20,419 - root - INFO - info log
+2018-02-19 07:27:20,421 - root - DEBUG - debug log
+2018-02-19 07:27:20,422 - root - ERROR - error log
+2018-02-19 07:27:20,423 - root - CRITICAL - critical log
+2018-02-19 07:27:20,438 - root - WARNING - warn log
