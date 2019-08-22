@@ -1,0 +1,20 @@
+version: '3'
+services:
+  web1:
+    image: nginx:latest
+    volumes:
+      - ./code1:/usr/share/nginx/html
+    ports:
+      - "8997:80"
+  web2:
+    image: nginx:latest
+    volumes:
+      - ./code2:/usr/share/nginx/html
+    ports:
+      - "8998:80"
+  web3:
+    image: nginx:latest
+    volumes:
+      - ./code3:/usr/share/nginx/html
+    ports:
+      - "8999:80"
