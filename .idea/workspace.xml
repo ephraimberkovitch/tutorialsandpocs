@@ -2,52 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="954f8006-2576-413e-bf6c-d1278a0d1f7d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/euler/problem_659.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/cyronix/Pipfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/cyronix/Pipfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/cyronix/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/cyronix/ephraim_test.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/cyronix/exercise1/Extracting and saving data from accessible cloud account.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/cyronix/exercise2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/cyronix/exercise2/code1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/cyronix/exercise2/code2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/cyronix/exercise2/code3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/cyronix/exercise2/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/cyronix/exercise3/Logfile.CSV" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/cyronix/exercise3/exer3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/cyronix/exercise3/file.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/cyronix/exercise3/log.PML" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/FormBird - EasySend Candidate Exercise.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/.buildpacks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/api/api_blueprint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/api/game_state_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/api/health_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/run_server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/runtime.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/static/img/finish.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/static/img/floor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/static/img/form.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/static/img/player.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/static/img/wall.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/static/img/win.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/static/js/consts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/static/js/game-state.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/static/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/static/js/tile-types.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/static/styles/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/static/win.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/easysend/easy-send-form-bird-exercise-e24598a011c5/vpip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/Your-First-PWA-Codelab.code-workspace" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/add.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/clear-day.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/clear-night.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/cloudy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/fog.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/hail.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/icons/icon-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/icons/icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/icons/icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/icons/icon-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/icons/icon-256x256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/icons/icon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/icons/icon-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/install.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/partly-cloudy-day.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/partly-cloudy-night.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/rain.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/refresh.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/sleet.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/snow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/thunderstorm.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/tornado.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/images/wind.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/offline.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/scripts/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/scripts/install.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/scripts/luxon-1.11.4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/service-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/public/styles/inline.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pwa/watch.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,17 +89,40 @@
       <file leaf-file-name="logging.yaml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python/logging_techniques/logging.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
+            <state relative-caret-position="1050">
               <caret line="70" column="96" selection-start-line="70" selection-start-column="96" selection-end-line="70" selection-end-column="96" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="problem_659.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="problem_659.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/euler/problem_659.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CONTRIBUTING.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pwa/CONTRIBUTING.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pwa/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -165,6 +180,7 @@
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
+      <path value="$PROJECT_DIR$/pwa/package.json" />
       <path value="$PROJECT_DIR$/react/tut01/package.json" />
     </packageJsonPaths>
   </component>
@@ -224,23 +240,7 @@
             <path>
               <item name="tutorialsandpocs" type="b2602c69:ProjectViewProjectNode" />
               <item name="tutorialsandpocs" type="462c0819:PsiDirectoryNode" />
-              <item name="euler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tutorialsandpocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tutorialsandpocs" type="462c0819:PsiDirectoryNode" />
-              <item name="exercism" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tutorialsandpocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tutorialsandpocs" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tutorialsandpocs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tutorialsandpocs" type="462c0819:PsiDirectoryNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="cyronix" type="462c0819:PsiDirectoryNode" />
+              <item name="pwa" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -266,6 +266,8 @@
       <recent name="$PROJECT_DIR$/python/logging_techniques" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pwa" />
+      <recent name="$PROJECT_DIR$/python" />
       <recent name="$PROJECT_DIR$/udacity-nanodegree" />
     </key>
   </component>
@@ -332,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1519020771653</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="More interview questions">
+      <created>1566476822990</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566476822990</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -340,15 +349,15 @@
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32957748" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32957748" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26435152" />
       <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -371,9 +380,106 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Logging" />
     <MESSAGE value="Logging-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Logging-2" />
+    <MESSAGE value="More interview questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="More interview questions" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/python/logging_techniques/bt_logging_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/logging_techniques/logging.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="96" selection-start-line="70" selection-start-column="96" selection-end-line="70" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/euler/problem_659.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pwa/CONTRIBUTING.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/logging_techniques/loggly.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="89" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pwa/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udacity-nanodegree/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5445">
+          <caret line="363" column="8" selection-start-line="363" selection-start-column="8" selection-end-line="363" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/logging_techniques/bt_logging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/logging_techniques/bt_logging_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/logging_techniques/logging.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="70" column="96" selection-start-line="70" selection-start-column="96" selection-end-line="70" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/logging_techniques/loggly.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="89" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/euler/problem_659.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/udacity-nanodegree/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5445">
@@ -582,7 +688,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python/logging_techniques/logging.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
+        <state relative-caret-position="1050">
           <caret line="70" column="96" selection-start-line="70" selection-start-column="96" selection-end-line="70" selection-end-column="96" />
         </state>
       </provider>
@@ -594,13 +700,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/cyronix/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/python/cyronix/.idea/misc.xml" />
     <entry file="file://$PROJECT_DIR$/euler/problem_659.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pwa/CONTRIBUTING.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pwa/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
